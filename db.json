@@ -14,6 +14,11 @@
         "id":3,
         "username":"Gromash",
         "deck":[97,46,34,19,44]
+      },
+    {
+        "id":4,
+        "username":"Jaina",
+        "deck":[15,15,36,40,4]
       }
     ]
   }
